@@ -3,5 +3,4 @@ _Web Design Study Project. for purmirl._
 
 ------------------
 
-- classical HTML design. by petra.
-
+- classical HTML design. by _petra._

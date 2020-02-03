@@ -2,5 +2,5 @@
 _Web Design Study Project. for purmirl._
 
 ------------------
-https://purmirl.github.io
+https://purmirl.github.io <-- design board
 - classical HTML design. by _petra._

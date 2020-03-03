@@ -30,6 +30,8 @@
  }
 
 .container{
+	display: grid;
+	grid-template-columns: 66% auto;
 	padding: 4em 1em;
 }
 

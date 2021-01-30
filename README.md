@@ -1,6 +1,6 @@
 ## PeTrA web design board.
-_Web Design Study Project. for purmirl._
-
+_Web Design Study Project. for purmirl._   
+20210130 ~ Renewal Repository
 ------------------
 https://purmirl.github.io <-- design board
 - classical HTML design. by _petra._ <p>
